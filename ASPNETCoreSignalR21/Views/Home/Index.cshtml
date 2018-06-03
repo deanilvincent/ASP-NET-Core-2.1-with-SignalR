@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<h1>Chat</h1>
+<form id="send-form" action="#">
+    Send a message:
+    <input type="text" id="message-textbox" />
+    <button id="send-button" type="submit">Send</button>
+</form>
+
+<ul id="messages-list"></ul>
+
+@section Scripts
+    {
+    <script src="~/lib/signalr/signalr.min.js"></script>
+    <script src="~/js/chat.js"></script>
+}

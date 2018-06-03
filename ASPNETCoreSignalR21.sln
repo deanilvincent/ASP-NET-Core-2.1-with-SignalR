@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNETCoreSignalR21", "ASPNETCoreSignalR21\ASPNETCoreSignalR21.csproj", "{0B469EED-BB69-4D30-8E59-F388D831ECB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B469EED-BB69-4D30-8E59-F388D831ECB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B469EED-BB69-4D30-8E59-F388D831ECB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B469EED-BB69-4D30-8E59-F388D831ECB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B469EED-BB69-4D30-8E59-F388D831ECB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E10F73D-022C-4600-9F82-20F6A033F030}
+	EndGlobalSection
+EndGlobal
